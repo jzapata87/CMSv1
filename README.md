@@ -36,9 +36,11 @@ the webpage.
 
 ## Contact
 
+Check out my [website](https://jzapata87.github.io/) to see other things I am working on and interested in.
+
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[My Website][(https://jzapata87.github.io/)]
+
 
 
 <!-- Markdown link & img dfn's -->
