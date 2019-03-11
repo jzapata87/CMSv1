@@ -1,20 +1,21 @@
-# Product Name
-> Short blurb about what your product does.
+# Medium CMS Editor
+> Cheap mockup of Medium's CMS editor.
 
-[![NPM Version][npm-image]][npm-url]
+<!-- [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Downloads Stats][npm-downloads]][npm-url] -->
 
 This is a project where I learned a great deal from.  I wanted to see if I could clone Medium's CMS or the editor.  I really did not have a path to follow before I began.  It was approached in a very hacky way.  I was
 essentially just trying to tweak things here and there while at the same time learning how things worked. I googled a whole bunch.  
 
-![](header.png)
+![](image1.png)
+![](image2.png)
 
-Just clone the repository and run the following command to get it up and running.  Nothing to complicated.
+Download the zip, unzip, then on terminal cd into root directory and run the following command to get it up and running.  Nothing too complicated.
 
 ## Installation
 
-OS X || Linux || Windows:
+OS X, Linux & Windows:
 
 ```sh
 npm start
@@ -27,26 +28,11 @@ Just click on any of the buttons on the site and type in the text input areas an
 the webpage.   
 
 
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
 ## Contact
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[My Website][npm-test]
+[My Website][(https://jzapata87.github.io/)]
 
 
 <!-- Markdown link & img dfn's -->
