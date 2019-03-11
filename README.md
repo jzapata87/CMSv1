@@ -8,12 +8,18 @@
 This is a project where I learned a great deal from.  I wanted to see if I could clone Medium's CMS or the editor.  I really did not have a path to follow before I began.  It was approached in a very hacky way.  I was
 essentially just trying to tweak things here and there while at the same time learning how things worked. I googled a whole bunch.  
 
+## Screenshots
+Click on any of the buttons to add a textarea input.
 ![](image1.png)
+
+***
+Add text and then click submit then click either "Add More", "Add TEST", "Delete", or "Add".
 ![](image2.png)
 
-Download the zip, unzip, then on terminal cd into root directory and run the following command to get it up and running.  Nothing too complicated.
+***
 
 ## Installation
+Download the zip, unzip, then on terminal cd into root directory and run the following command to get it up and running.  Nothing too complicated.
 
 OS X, Linux & Windows:
 
