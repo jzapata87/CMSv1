@@ -44,11 +44,9 @@ the webpage.
 
 ## Contact
 
-Your Name – [<img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="75" title="Medium" />](https://medium.com) – YourEmail@example.com
-
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[My Website](https://github.com/dbader/)
+[My Website][npm-test]
 
 
 <!-- Markdown link & img dfn's -->
